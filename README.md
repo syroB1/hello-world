@@ -1,6 +1,8 @@
 # hello-world
 
-My name is Borys, and this is test nr 1
+My name is Borys
+
+Test nr 1 - The guide tutorial.
 
 Test nr 2 - GitHubDesktop
 
